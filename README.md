@@ -11,4 +11,5 @@ This repository contains the basic code for the following topics about unsupervi
 * Information Maximizing Generative Adversarial Network (InfoGAN)
 
 Python 3.7 Tensorflow 1.14.0
+
 Note: Please unzip necessary zip files to retrieve the data
